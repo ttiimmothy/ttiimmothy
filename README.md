@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning more about Data Structure and Algorithm.
 - 🔭 &nbsp; Seeking for any opportunities available in Canada.
-- 📫 &nbsp; How to reach me **<ttiimmothhylsff@gmail.com>**
+- 📫 &nbsp; How to reach me **<timothyemail805@gmail.com>**
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
 
@@ -141,13 +141,13 @@
 	</tr>
 	<tr>
 		<th colspan="2">
-			<p align="center">
+			<p>
 				<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=soft-green" alt="" />
 			</p>
-			<p align="center">
+			<p>
 				<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=merko" alt="" />
 			</p>
-			<p align="center">
+			<p>
 				<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12" alt="" />
 			</p>
 		</th>
