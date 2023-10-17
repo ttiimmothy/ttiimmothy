@@ -1,3 +1,5 @@
+<h2> Hi there, I'm Timothy</h2>
+
 <h3> 👨🏻‍💻 &nbsp;About me </h3>
 
 - 👨🏻‍💻 &nbsp; A passionate software engineer
