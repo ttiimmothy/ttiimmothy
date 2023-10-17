@@ -141,7 +141,7 @@
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=soft-green" alt="" />
 </p>
 <p>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=merko" alt="" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=synthwave" alt="" />
 </p>
 <p>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12" alt="" />
