@@ -136,23 +136,16 @@
 			</td>
 		</tr>
 	</tr>
-	<tr>
-		<th colspan="2">Performance</th>
-	</tr>
-	<tr>
-		<th colspan="2">
-			<p>
-				<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=soft-green" alt="" />
-			</p>
-			<p>
-				<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=merko" alt="" />
-			</p>
-			<p>
-				<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12" alt="" />
-			</p>
-		</th>
-	</tr>
 </table>
+<p>
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=soft-green" alt="" />
+</p>
+<p>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=merko" alt="" />
+</p>
+<p>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12" alt="" />
+</p>
 
 <h3> 🚀 &nbsp; Connect with me </h3>
 
