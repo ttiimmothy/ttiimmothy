@@ -141,6 +141,7 @@
 </p>
 <p>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=synthwave" alt="" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=thomassth&show_icons=true&theme=radical" alt="" />
 </p>
 <p>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12" alt="" />
