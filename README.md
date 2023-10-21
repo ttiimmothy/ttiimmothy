@@ -138,6 +138,7 @@
 </table>
 <p>
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=soft-green" alt="" />
+	<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=thomassth&theme=buefy-dark" alt="" />
 </p>
 <p>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=synthwave" alt="" />
