@@ -127,6 +127,9 @@
 				<a href="https://kafka.apache.org/" target="_blank">
           <img src="https://skillicons.dev/icons?i=kafka" alt="apache kafka" width="40" height="40"/>
         </a>
+				<a href="https://www.rabbitmq.com/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" width="40" height="40"/>
+        </a>
 				<img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
 				<img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/>
 				<a href="https://git-scm.com/" target="_blank">
@@ -142,7 +145,7 @@
 </p>
 <p>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=synthwave" alt="" />
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=thomassth&show_icons=true&theme=radical" alt="" />
+  <!-- <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=thomassth&show_icons=true&theme=radical" alt="" /> -->
 </p>
 <p>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12" alt="" />
