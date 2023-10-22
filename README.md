@@ -9,7 +9,7 @@
 - 📫 &nbsp; How to reach me **<timothyemail805@gmail.com>**
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
-[abc](https://example.com)
+<!-- [abc](https://example.com) -->
 
 <table>
 	<tr>
