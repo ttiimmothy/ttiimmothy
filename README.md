@@ -9,6 +9,7 @@
 - 📫 &nbsp; How to reach me **<timothyemail805@gmail.com>**
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
+[abc](https://example.com)
 
 <table>
 	<tr>
@@ -130,7 +131,9 @@
 				<a href="https://www.rabbitmq.com/" target="_blank">
           <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" width="40" height="40"/>
         </a>
+				<a href="https://www.github.com/" target="_blank">
 				<img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
+				</a>
 				<img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/>
 				<a href="https://git-scm.com/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -167,3 +170,5 @@
 		<img src="https://img.shields.io/github/followers/ttiimmothy?style=flat-square&logo=Github&logoColor=white"/>
 	</a>
 </p>
+
+[![Link Text](https://skillicons.dev/icons?i=github)](https://github.com)
