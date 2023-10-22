@@ -134,7 +134,9 @@
 				<a href="https://www.github.com/" target="_blank">
 				<img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
 				</a>
+				<a href="https://www.gitlab.com/" target="_blank">
 				<img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/>
+				</a>
 				<a href="https://git-scm.com/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
         </a>
