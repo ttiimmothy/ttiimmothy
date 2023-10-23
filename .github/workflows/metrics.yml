@@ -24,6 +24,7 @@ jobs:
           base: header, activity, repositories, metadata
           config_timezone: Canada/Eastern
           config_twemoji: yes
+          config_order: base.header, base.activity, base.repositories, isocalendar, languages, base.metadata
           # plugin_languages_analysis_timeout: 15
           # plugin_languages_categories: markup, programming
           # plugin_languages_colors: github
@@ -48,5 +49,7 @@ jobs:
           # repositories_skipped:
           plugin_languages: yes
           plugin_languages_indepth: yes
-          commits_authoring: Timothy Li, ttiimmothy, dinosauli2006@gmail.com
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: lines, bytes-size, percentage
+          # commits_authoring: Timothy Li, ttiimmothy, dinosauli2006@gmail.com
           use_prebuilt_image: yes
