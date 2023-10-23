@@ -176,7 +176,7 @@
 </p>
 
 ## 🌱 Metrics
-[![metrics](./metrics.svg)](https://github.com/ttiimmothy/ttiimmothy/metrics.svg)
+[![metrics](./metrics.svg)](https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics.svg)
 
 ### Github icon
 [![Link Text](https://skillicons.dev/icons?i=github)](https://github.com "Right-click and select 'Open link in new tab'")
