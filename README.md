@@ -60,9 +60,6 @@
 				<a href="https://www.w3schools.com/css/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
         </a>
-				<!-- <a href="https://getbootstrap.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-        </a> -->
 			</td>
 		</tr>
 		<tr>
@@ -76,6 +73,9 @@
         </a>
 				<a href="https://spring.io/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+        </a>
+				<a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
         </a>
 				<a href="https://graphql.org" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
@@ -153,7 +153,6 @@
 </p>
 <p>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=synthwave" alt="" />
-  <!-- <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=thomassth&show_icons=true&theme=radical" alt="" /> -->
 </p>
 <p>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12" alt="" />
@@ -162,9 +161,9 @@
 <h3> 🚀 &nbsp; Connect with me </h3>
 
 <p>
-	<!-- <a href="https://adityadees.blogspot.com">
-		<img src="https://img.shields.io/badge/-adityadees.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
-	</a> -->
+	<a href="https://ttiimmothy.github.io/portfolio">
+		<img src="https://img.shields.io/badge/-ttiimmothy.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
+	</a>
 	<a href="https://linkedin.com/in/timothyurl">
 		<img src="https://img.shields.io/badge/-Timothy%20Li-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 	</a>
@@ -175,5 +174,7 @@
 		<img src="https://img.shields.io/github/followers/ttiimmothy?style=flat-square&logo=Github&logoColor=white"/>
 	</a>
 </p>
+
+[![metrics](./metrics.svg)](https://github.com/ttiimmothy/ttiimmothy/metrics.svg)
 
 [![Link Text](https://skillicons.dev/icons?i=github)](https://github.com "Right-click and select 'Open link in new tab'")
