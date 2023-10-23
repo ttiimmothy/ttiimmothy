@@ -180,3 +180,6 @@
 
 ### Github icon
 [![Link Text](https://skillicons.dev/icons?i=github)](https://github.com "Right-click and select 'Open link in new tab'")
+
+### Terraform icon
+[![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)](https://terraform.io)
