@@ -148,11 +148,13 @@
 	</tr>
 </table>
 <p>
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=soft-green" alt="" />
-	<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=hoipangcheung&theme=buefy-dark" alt="" />
+  <!-- <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=soft-green" alt="" /> -->
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=buefy-dark" alt="" />
+	<!-- <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=hoipangcheung&theme=buefy-dark" alt="" /> -->
 </p>
 <p>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=synthwave" alt="" />
+  <!-- <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=synthwave" alt="" /> -->
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
 </p>
 <p>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12" alt="" />
@@ -179,7 +181,7 @@
 [![metrics](./metrics.svg)](https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics.svg)
 
 ### Github icon
-[![Link Text](https://skillicons.dev/icons?i=github)](https://github.com "Right-click and select 'Open link in new tab'")
+[![Link Text](https://skillicons.dev/icons?i=github)](https://github.com)
 
-### Terraform icon
-[![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)](https://terraform.io)
+<!-- ### Terraform icon
+[![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)](https://terraform.io) -->
