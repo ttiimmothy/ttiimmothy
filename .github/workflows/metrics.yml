@@ -23,10 +23,11 @@ jobs:
           # Options
           filename: metrics.svg
           user: ttiimmothy
-          base: header, activity, repositories, metadata
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
           config_timezone: Canada/Eastern
           config_twemoji: yes
-          config_order: base.header, base.activity, base.repositories, isocalendar, achievements, languages, base.metadata
+          config_order: base.header, base.activity+community, base.repositories, isocalendar, achievements, languages
           # plugin_languages_analysis_timeout: 15
           # plugin_languages_categories: markup, programming
           # plugin_languages_colors: github
