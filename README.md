@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About me </h3>
 
 - 👨🏻‍💻 &nbsp; A passionate software engineer
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning more about Data Structure and Algorithm.
-- 🔭 &nbsp; Seeking for any opportunities available in Canada.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
+- 🌱 &nbsp; Learning more about Data Structure and Algorithm
+- 🔭 &nbsp; Seeking for any opportunities available in Canada
 - 📫 &nbsp; How to reach me **<timothyemail805@gmail.com>**
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
