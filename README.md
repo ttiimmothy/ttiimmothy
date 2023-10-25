@@ -9,7 +9,6 @@
 - 📫 &nbsp; How to reach me **<timothyemail805@gmail.com>**
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
-<!-- [abc](https://example.com) -->
 
 <table>
 	<tr>
@@ -163,8 +162,8 @@
 <h3> 🚀 &nbsp; Connect with me </h3>
 
 <p>
-	<a href="https://ttiimmothy.github.io/portfolio">
-		<img src="https://img.shields.io/badge/-ttiimmothy.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
+	<a href="https://ttiimmothy.com">
+		<img src="https://img.shields.io/badge/-ttiimmothy.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
 	</a>
 	<a href="https://linkedin.com/in/timothyurl">
 		<img src="https://img.shields.io/badge/-Timothy%20Li-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
