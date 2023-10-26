@@ -1,11 +1,11 @@
 name: metrics
 on:
   schedule:
-    # run at 0, 8 and 16 every day
-    # run three times per day
+    # run at 0, 8 every day
+    # run two times per day
     - cron: "0 0 * * *"
     - cron: "0 8 * * *"
-    - cron: "0 16 * * *"
+    # - cron: "0 16 * * *"
   workflow_dispatch:
   push:
     branches:

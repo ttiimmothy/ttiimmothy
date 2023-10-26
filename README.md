@@ -1,12 +1,13 @@
-<h2> Hi there, I'm Timothy</h2>
-<h3> 👨🏻‍💻 &nbsp;About me </h3>
+## Hi there, I'm Timothy
+### 👨🏻‍💻 &nbsp;About me
+
 - 👨🏻‍💻 &nbsp; A passionate software engineer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 🌱 &nbsp; Learning more about Data Structure and Algorithm
 - 🔭 &nbsp; Seeking for any opportunities available in Canada
 - 📫 &nbsp; How to reach me **<timothyemail805@gmail.com>**
 
-<h3> 🛠 &nbsp;Tech Stack </h3>
+### 🛠 &nbsp;Tech Stack
 <table>
 	<tr>
 		<tr>
@@ -169,13 +170,19 @@
 </p>
 
 ## 🌱 Metrics
-[![metrics](./metrics.svg)](https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics.svg)
 
-![streak status](https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=buefy-dark)
+<a href="https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics.svg">
+	<img src="./metrics.svg" width="400em"/>
+</a>
+<p>
+  <img align="center" height="141em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=buefy-dark" alt="" />
+</p>
+<p>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
+</p>
+<p>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12" alt="" />
+</p>
 
-![github status](https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical)
-
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12)
-
-### Github icon
+### <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="35"/> Github icon
 [![Link Text](https://skillicons.dev/icons?i=github)](https://github.com)
