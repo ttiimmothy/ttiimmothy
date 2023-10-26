@@ -1,7 +1,5 @@
 <h2> Hi there, I'm Timothy</h2>
-
 <h3> 👨🏻‍💻 &nbsp;About me </h3>
-
 - 👨🏻‍💻 &nbsp; A passionate software engineer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 🌱 &nbsp; Learning more about Data Structure and Algorithm
@@ -9,26 +7,28 @@
 - 📫 &nbsp; How to reach me **<timothyemail805@gmail.com>**
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
-
 <table>
 	<tr>
 		<tr>
 			<td>Programming Languages</td>
 			<td>
+        <a href="https://dotnet.microsoft.com/en-us/languages/csharp/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+        </a>
+				<a href="https://www.java.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+        </a>
+				<a href="https://www.python.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        </a>
+				<a href="https://go.dev/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
+        </a>
 				<a href="https://www.typescriptlang.org/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
         </a>
 				<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        </a>
-				<a href="https://www.java.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-        </a>
-        <a href="https://www.w3schools.com/cs/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-        </a>
-				<a href="https://www.python.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         </a>
 			</td>
 		</tr>
@@ -37,9 +37,6 @@
 			<td>
 				<a href="https://react.dev/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-				<a href="https://vuejs.org/" target="_blank">
-        </a>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
         </a>
 				<a href="https://redux.js.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
@@ -47,40 +44,46 @@
         <a href="https://nextjs.org/" target="_blank">
           <img src="https://hendrixer.github.io/nextjs-course/44f073f9132a0459819eae6afa5b3807/next_with_bg.svg" alt="nextjs" width="40" height="40"/>
         </a>
+				<a href="https://vuejs.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+        </a>
 				<a href="https://nuxtjs.org/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
         </a>
 				<a href="https://sass-lang.com" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
         </a>
-				<a href="https://www.w3.org/html/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+				<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
         </a>
-				<a href="https://www.w3schools.com/css/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+				<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
         </a>
 			</td>
 		</tr>
 		<tr>
 			<td>Backend Development</td>
 			<td>
+				<a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
+        </a>
+				<a href="https://spring.io/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+        </a>
 				<a href="https://nodejs.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
         </a>
 				<a href="https://expressjs.com" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
         </a>
-				<a href="https://spring.io/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+				<a href="https://www.djangoproject.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="20"/>
         </a>
-				<a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
+				<a href="https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming" target="_blank">
+          <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/rest-api-1-570529.png" alt="restful api" width="40" height="40"/>
         </a>
 				<a href="https://graphql.org" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-        </a>
-				<a href="https://www.djangoproject.com/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="20"/>
         </a>
 			</td>
 		</tr>
@@ -96,22 +99,22 @@
 				<a href="https://www.mongodb.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
         </a>
-				<a href="https://firebase.google.com/" target="_blank">
-					<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-				</a>
 				<a href="https://redis.io/" target="_blank">
 					<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
 				</a>
 			</td>
 		</tr>
 		<tr>
-			<td>Devops</td>
+			<td>Devops and Cloud</td>
 			<td>
 				<a href="https://kubernetes.io/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
         </a>
 				<a href="https://www.docker.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+        </a>
+				<a href="https://github.com/features/actions" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/>
         </a>
 				<a href="https://www.terraform.io/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
@@ -130,6 +133,9 @@
 				<a href="https://kafka.apache.org/" target="_blank">
           <img src="https://skillicons.dev/icons?i=kafka" alt="apache kafka" width="40" height="40"/>
         </a>
+				<a href="https://aws.amazon.com/lambda/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="aws lambda" width="40" height="40"/>
+        </a>
 				<a href="https://www.rabbitmq.com/" target="_blank">
           <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" width="40" height="40"/>
         </a>
@@ -146,21 +152,7 @@
 		</tr>
 	</tr>
 </table>
-<p>
-  <!-- <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=soft-green" alt="" /> -->
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=buefy-dark" alt="" />
-	<!-- <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=hoipangcheung&theme=buefy-dark" alt="" /> -->
-</p>
-<p>
-  <!-- <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=synthwave" alt="" /> -->
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
-</p>
-<p>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12" alt="" />
-</p>
-
 <h3> 🚀 &nbsp; Connect with me </h3>
-
 <p>
 	<a href="https://ttiimmothy.com">
 		<img src="https://img.shields.io/badge/-ttiimmothy.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
@@ -178,9 +170,9 @@
 
 ## 🌱 Metrics
 [![metrics](./metrics.svg)](https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics.svg)
+![streak status](https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=buefy-dark)
+![github status](https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical)
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12)
 
 ### Github icon
 [![Link Text](https://skillicons.dev/icons?i=github)](https://github.com)
-
-<!-- ### Terraform icon
-[![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)](https://terraform.io) -->
