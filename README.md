@@ -170,8 +170,11 @@
 
 ## 🌱 Metrics
 [![metrics](./metrics.svg)](https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics.svg)
+
 ![streak status](https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=buefy-dark)
+
 ![github status](https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical)
+
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12)
 
 ### Github icon
