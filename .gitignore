@@ -1,4 +1,4 @@
 .env.local
 metrics_private.svg
-metrics_gaearon.svg
-metrics_gaearon.yml
+# metrics_gaearon.svg
+# metrics_gaearon.yml
