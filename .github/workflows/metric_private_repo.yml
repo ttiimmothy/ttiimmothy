@@ -1,4 +1,4 @@
-name: metrics1
+name: metrics_private_repo
 on:
   workflow_dispatch:
   push:
@@ -15,8 +15,8 @@ jobs:
         with:
           token: ${{secrets.METRICS_TOKEN_PRIVATE_REPO}}
           # Options
-          filename: metrics_gaearon.svg
-          user: gaearon
+          filename: metrics_private.svg
+          user: ttiimmothy
           base: header, activity, repositories, metadata
           base_indepth: yes
           config_timezone: Canada/Eastern
