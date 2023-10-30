@@ -1,8 +1,8 @@
 .env.local
 metrics_private_repo.yml
 metrics_private.svg
-# metrics_gaearon.svg
-# metrics_gaearon.yml
+metrics_gaearon.svg
+metrics_gaearon.yml
 metrics_antfu.svg
 metrics_antfu.yml
 
@@ -13,3 +13,5 @@ index.html
 main.ts
 package.json
 package-lock.json
+
+.DS_Store
