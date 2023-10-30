@@ -7,8 +7,8 @@ metrics_antfu.svg
 metrics_antfu.yml
 metrics_torvalds.svg
 metrics_torvalds.yml
-# metrics_karpathy.svg
-# metrics_karpathy.yml
+metrics_karpathy.svg
+metrics_karpathy.yml
 
 # for server running
 node_modules
