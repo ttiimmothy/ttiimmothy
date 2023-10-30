@@ -13,9 +13,9 @@ jobs:
       - name: Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{secrets.METRICS_TOKEN}}
+          token: ${{secrets.METRICS_TOKEN_PRIVATE_REPO}}
           # Options
-          filename: metrics_yyx990803.svg
+          filename: metrics_yyx.svg
           user: yyx990803
           base: header, activity, repositories, metadata
           base_indepth: yes
