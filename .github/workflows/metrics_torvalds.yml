@@ -15,8 +15,8 @@ jobs:
         with:
           token: ${{secrets.METRICS_TOKEN_PRIVATE_REPO}}
           # Options
-          filename: metrics_yyx990803.svg
-          user: yyx990803
+          filename: metrics_torvalds.svg
+          user: torvalds
           base: header, activity, repositories, metadata
           base_indepth: yes
           config_timezone: Canada/Eastern

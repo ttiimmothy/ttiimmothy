@@ -172,16 +172,16 @@
 ## 🌱 Metrics
 
 <a href="https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics.svg">
-	<img src="./metrics.svg" width="400em"/>
+	<img src="./metrics.svg" width="400rem"/>
 </a>
 <p>
-  <img align="center" height="141em" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=buefy-dark" alt="" />
+  <img align="center" height="141rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=buefy-dark" alt="" />
 </p>
 <p>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
+  <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
 </p>
 <p>
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12" alt="" />
+  <img align="center" height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=12" alt="" />
 </p>
 
 ### <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="35"/> Github icon
