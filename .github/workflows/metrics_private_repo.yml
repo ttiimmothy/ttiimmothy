@@ -1,5 +1,7 @@
 name: metrics_private_repo
 on:
+  schedule:
+    - cron: "0 0,8 * * *"
   workflow_dispatch:
   push:
     branches:
