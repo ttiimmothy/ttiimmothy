@@ -9,6 +9,8 @@ metrics_torvalds.svg
 metrics_torvalds.yml
 metrics_karpathy.svg
 metrics_karpathy.yml
+metrics_octocat.svg
+metrics_octocat.yml
 metrics_halloween.svg
 
 # for server running
