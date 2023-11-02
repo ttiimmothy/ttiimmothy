@@ -1,6 +1,6 @@
 .env.local
-metrics_private_repo.yml
-metrics_private.svg
+# metrics_private_repo.yml
+# metrics_private.svg
 metrics_gaearon.svg
 metrics_gaearon.yml
 metrics_antfu.svg
