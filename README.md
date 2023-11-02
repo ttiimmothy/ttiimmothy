@@ -191,4 +191,3 @@
 <a href="https://www.github.com/" target="_blank">
 	<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
-
