@@ -1,10 +1,10 @@
 .env.local
-# metrics_private_repo.yml
-# metrics_private.svg
+# metrics_private_repository.yml
+# metrics_private_repository.svg
 metrics_gaearon.svg
 metrics_gaearon.yml
-# metrics_antfu.svg
-# metrics_antfu.yml
+metrics_antfu.svg
+metrics_antfu.yml
 metrics_antfu_private_repository.svg
 metrics_antfu_private_repository.yml
 metrics_torvalds.svg
