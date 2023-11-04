@@ -180,8 +180,10 @@
 <p>
   <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
 </p>
+
+<!-- ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=24) -->
 <p>
-  <img align="center" height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=24" alt="" />
+  <img align="center" height="280rem"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=24" alt="" />
 </p>
 
 ### <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="35"/> Icons
