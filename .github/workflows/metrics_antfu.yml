@@ -1,7 +1,7 @@
-name: metrics2
+name: metrics_antfu
 on:
   schedule:
-    - cron: "0 0,8,16 * * *"
+    - cron: "0 0,8 * * *"
   workflow_dispatch:
   push:
     branches:
