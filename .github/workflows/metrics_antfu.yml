@@ -1,11 +1,7 @@
-name: metrics
+name: metrics2
 on:
   schedule:
-    # run at 0, 8, 16 every day
-    # run three times per day
-    - cron: "0 0 * * *"
-    - cron: "0 8 * * *"
-    - cron: "0 16 * * *"
+    - cron: "0 0,8,16 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -21,8 +17,8 @@ jobs:
         with:
           token: ${{secrets.METRICS_TOKEN}}
           # Options
-          filename: metrics.svg
-          user: ttiimmothy
+          filename: metrics_antfu.svg
+          user: antfu
           base: header, activity, repositories, metadata
           base_indepth: yes
           config_timezone: Canada/Eastern
@@ -46,7 +42,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          plugin_achievements_threshold: X
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           # repositories_skipped:

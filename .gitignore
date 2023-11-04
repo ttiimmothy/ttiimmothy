@@ -3,8 +3,8 @@
 # metrics_private.svg
 metrics_gaearon.svg
 metrics_gaearon.yml
-metrics_antfu.svg
-metrics_antfu.yml
+# metrics_antfu.svg
+# metrics_antfu.yml
 metrics_torvalds.svg
 metrics_torvalds.yml
 metrics_karpathy.svg
