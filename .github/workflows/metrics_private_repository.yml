@@ -2,8 +2,8 @@ name: metrics_private_repository
 on:
   schedule:
     # - cron: "0 0,4,8,12,16,20 * * *"
-    # run eight times per day
-    - cron: "0 0,3,6,9,12,15,18,21 * * *"
+    # run four times per day
+    - cron: "0 0,6,12,18 * * *"
   workflow_dispatch:
   push:
     branches:
