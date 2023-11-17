@@ -1,4 +1,5 @@
-.env.local
+.env*.local
+.env
 # metrics_private_repository.yml
 # metrics_private_repository.svg
 metrics_gaearon.svg
