@@ -180,8 +180,6 @@
 <p>
   <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
 </p>
-
-<!-- ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=2) -->
 <p>
   <img align="center" height="260rem"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=26" alt="" />
 </p>
