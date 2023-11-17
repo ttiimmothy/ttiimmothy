@@ -1,0 +1,4 @@
+{
+  "/usr/local/bin": "symlink",
+  "/usr/local/lib/node_modules": "npm global packages"
+}
