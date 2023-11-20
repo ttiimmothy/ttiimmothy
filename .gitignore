@@ -1,3 +1,4 @@
+.env.local.not.work
 .env*.local
 .env
 # metrics_private_repository.yml
