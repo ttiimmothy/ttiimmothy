@@ -156,23 +156,23 @@
 <h3> 🚀 &nbsp; Connect with me </h3>
 <p>
 	<a href="https://ttiimmothy.com" target="_blank">
-		<img src="https://img.shields.io/badge/-ttiimmothy.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-ttiimmothy.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt=""/>
 	</a>
 	<a href="https://linkedin.com/in/timothyurl" target="_blank">
-		<img src="https://img.shields.io/badge/-Timothy%20Li-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-Timothy%20Li-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt=""/>
 	</a>
 	<a href="mailto:timothyemail805@gmail.com" target="_blank">
-		<img src="https://img.shields.io/badge/-timothyemail805@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-timothyemail805@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt=""/>
 	</a>
 	<a href="https://www.github.com/ttiimmothy" target="_blank">
-		<img src="https://img.shields.io/github/followers/ttiimmothy?style=flat-square&logo=Github&logoColor=white"/>
+		<img src="https://img.shields.io/github/followers/ttiimmothy?style=flat-square&logo=Github&logoColor=white" alt=""/>
 	</a>
 </p>
 
 ## 🌱 Metrics
 
 <a href="https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics.svg">
-	<img src="./metrics.svg" width="400rem"/>
+	<img src="./metrics.svg" width="400rem" alt=""/>
 </a>
 <p>
   <img align="center" height="141rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=buefy-dark" alt="" />
@@ -181,13 +181,13 @@
   <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
 </p>
 <p>
-  <img align="center" height="260rem"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=26" alt="" />
+  <img align="center" height="260rem"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=25" alt="" />
 </p>
 
-### <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="35"/> Icons
+### <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="35" alt=""/> Icons
 <a href="https://terraform.io" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="40"/>
+	<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="40" alt=""/>
 </a>
 <a href="https://www.github.com/" target="_blank">
-	<img src="https://skillicons.dev/icons?i=github" height="40"/>
+	<img src="https://skillicons.dev/icons?i=github" height="40" alt=""/>
 </a>
