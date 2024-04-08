@@ -21,15 +21,10 @@ metrics_4Nov1.svg
 metrics_11Mar_anniversary.svg
 metrics_private.svg
 
-# for server running
 node_modules
-assets/
-index.html
-main.ts
-package.json
-package-lock.json
 
 .DS_Store
+.vscode/settings.json
 docker-compose.yml
 Dockerfile
 concepts.json
