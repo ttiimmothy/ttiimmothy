@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --surface-card: #dadada;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.bold {
+  font-size: 144px;
+}
+
+.card {
+  background-color: var(--surface-card);
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  padding: 2rem;
+}
+
+.layout-content-inner {
+  padding: 2rem 16rem;
+}
+
+@media (max-width: 1280px) {
+  .layout-content-inner {
+    padding: 2rem 10rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .layout-content-inner {
+    padding: 2rem 4rem;
+  }
+}
