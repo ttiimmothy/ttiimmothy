@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2225,7 +2225,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="153.45 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="153.55333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2247,7 +2247,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2485 times</div>
+                                <div class="text">Repositories have been deployed 2486 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2743,7 +2743,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.27m out of 186m repositories</span>
+                                    <span class="gh">ranked 5.27m out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3207,15 +3207,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 23kb of code in 109 edited files across 41 commits over last 30 days</small>
+                <small>estimation from 16.9kb of code in 73 edited files across 39 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.33616613800945" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="447.33616613800945" y="0" width="9.663055838171045" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="456.9992219761805" y="0" width="3.0007780238194983" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="440.3236005207365" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="440.3236005207365" y="0" width="15.013948298307605" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="455.3375488190441" y="0" width="4.662451180955923" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3227,9 +3227,9 @@
                                 C++
                             </div>
                             <small>
-                                <div>902 lines</div>
-                                <div>16.2 kB</div>
-                                <div>97.25%</div>
+                                <div>554 lines</div>
+                                <div>10.2 kB</div>
+                                <div>95.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3242,7 +3242,7 @@
                             <small>
                                 <div>13 lines</div>
                                 <div>351 bytes</div>
-                                <div>2.1%</div>
+                                <div>3.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3255,7 +3255,7 @@
                             <small>
                                 <div>8 lines</div>
                                 <div>109 bytes</div>
-                                <div>0.65%</div>
+                                <div>1.01%</div>
                             </small>
                         </div>
                     </section>
@@ -3263,7 +3263,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2024, 03:15:39 (timezone Canada/Eastern) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jun 2024, 09:18:23 (timezone Canada/Eastern) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
