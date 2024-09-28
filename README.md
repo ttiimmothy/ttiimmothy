@@ -184,6 +184,8 @@
   <img align="center" height="260rem"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=25" alt="" />
 </p>
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttiimmothy%2Fttiimmothy&count_bg=%23FF5500&title_bg=%23555555&icon=github.svg&icon_color=%23EBE0B4&title=++++%F0%9F%A5%B5%F0%9F%91%80%F0%9F%A5%B5&edge_flat=false)
+
 ### <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="35" alt=""/> Icons
 <a href="https://terraform.io" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="40" alt=""/>

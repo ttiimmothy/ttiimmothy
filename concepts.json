@@ -1,9 +1,0 @@
-{
-  "/usr/local/bin": "symlink",
-  "/usr/local/lib/node_modules": "npm global packages",
-  "firebase": {
-    "firestore_delete_all_collections": {
-      "commands": ["firebase firestore:delete --all-collections"]
-    }
-  }
-}
