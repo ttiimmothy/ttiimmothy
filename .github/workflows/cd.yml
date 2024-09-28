@@ -1,0 +1,38 @@
+name: cd
+on:
+  push:
+    branches:
+      - production
+  schedule:
+    - cron: "20 0,2,4,8,12,16,20 * * *"
+    # - cron: "10 4,12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: write
+      security-events: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      # - name: Install bun
+      #   uses: oven-sh/setup-bun@v1
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v4.0.2
+        with:
+          node-version: 20.x
+      - name: Pnpm
+        uses: pnpm/action-setup@v3
+        # with:
+        #   version: 8
+      - name: Install and Build
+        run: |
+          pnpm install
+          pnpm run build
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4.6.6
+        with:
+          folder: dist
