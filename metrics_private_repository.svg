@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7489 Commits
+                            7494 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -210,7 +210,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~26.44
+                            Average per day at ~26.45
                         </div>
                     </section>
                 </div>
@@ -2156,9 +2156,9 @@
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 5.718120805369127)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2818791946308723 0,1.2818791946308725 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2818791946308725 1.7,2.2818791946308723 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2818791946308723 0,1.2818791946308725 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2818791946308725 1.7,2.2818791946308723 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.879194630872483)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2171,19 +2171,19 @@
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1409395973154361 1.7,2.140939597315436 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.919463087248323)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0805369127516777 0,1.0805369127516777 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0805369127516777 1.7,2.0805369127516777 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0805369127516777 0,1.0805369127516777 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0805369127516777 1.7,2.0805369127516777 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.879194630872483)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.120805369127517 0,1.1208053691275168 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1208053691275168 1.7,2.120805369127517 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.697986577181208)">
+                            <g transform="translate(-8.5, 10.597315436241612)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.302013422818792 0,1.302013422818792 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.302013422818792 1.7,2.302013422818792 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.402684563758389 0,1.4026845637583891 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4026845637583891 1.7,2.402684563758389 z"/>
                             </g>
                         </g>
                     </g>
@@ -3096,20 +3096,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 122mb of code in 31940 edited files across 2127 commits</small>
+                <small>estimation from 121mb of code in 31647 edited files across 2089 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.41141780666646" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="230.41141780666646" y="0" width="99.5582130571748" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="329.96963086384125" y="0" width="57.4053480167448" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="387.374978880586" y="0" width="45.29338337477286" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="432.6683622553589" y="0" width="10.564385370305144" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="443.232747625664" y="0" width="9.239947006022566" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.4726946316866" y="0" width="4.3166087965157764" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.7893034282023" y="0" width="3.210696571797627" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.92916194117302" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="236.92916194117302" y="0" width="102.37445786558024" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="339.30361980675326" y="0" width="50.5727694569252" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="389.87638926367845" y="0" width="42.748856603519606" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="432.62524586719803" y="0" width="10.863224557344692" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="443.48847042454275" y="0" width="9.423718109601259" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.912188534144" y="0" width="3.786292577405315" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.6984811115493" y="0" width="3.3015188884506736" height="8" fill="#199f4b"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3123,7 +3123,7 @@
                             <small>
                                 <div>163k lines</div>
                                 <div>4.09 MB</div>
-                                <div>50.09%</div>
+                                <div>51.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3136,7 +3136,7 @@
                             <small>
                                 <div>48.6k lines</div>
                                 <div>1.77 MB</div>
-                                <div>21.64%</div>
+                                <div>22.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3147,9 +3147,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>34.1k lines</div>
-                                <div>1.02 MB</div>
-                                <div>12.48%</div>
+                                <div>31.7k lines</div>
+                                <div>873 kB</div>
+                                <div>10.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3160,9 +3160,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>28.8k lines</div>
-                                <div>804 kB</div>
-                                <div>9.85%</div>
+                                <div>27k lines</div>
+                                <div>738 kB</div>
+                                <div>9.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3175,7 +3175,7 @@
                             <small>
                                 <div>6.99k lines</div>
                                 <div>187 kB</div>
-                                <div>2.3%</div>
+                                <div>2.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3186,9 +3186,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>2.65k lines</div>
-                                <div>164 kB</div>
-                                <div>2.01%</div>
+                                <div>2.58k lines</div>
+                                <div>162 kB</div>
+                                <div>2.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3199,9 +3199,9 @@
                                 CSS
                             </div>
                             <small>
-                                <div>3.67k lines</div>
-                                <div>76.7 kB</div>
-                                <div>0.94%</div>
+                                <div>3.05k lines</div>
+                                <div>65.4 kB</div>
+                                <div>0.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3214,7 +3214,7 @@
                             <small>
                                 <div>1.25k lines</div>
                                 <div>57 kB</div>
-                                <div>0.7%</div>
+                                <div>0.72%</div>
                             </small>
                         </div>
                     </section>
@@ -3348,7 +3348,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Sept 2024, 21:31:48 (timezone Canada/Eastern) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Sept 2024, 21:44:01 (timezone Canada/Eastern) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
