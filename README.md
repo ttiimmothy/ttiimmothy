@@ -155,7 +155,7 @@
 </table>
 <h3> 🚀 &nbsp; Connect with me </h3>
 <p>
-	<a href="https://ttiimmothy.com" target="_blank">
+	<!-- <a href="https://ttiimmothy.com" target="_blank">
 		<img src="https://img.shields.io/badge/-ttiimmothy.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt=""/>
 	</a>
 	<a href="https://linkedin.com/in/timothyurl" target="_blank">
@@ -163,7 +163,7 @@
 	</a>
 	<a href="mailto:timothyemail805@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/-timothyemail805@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt=""/>
-	</a>
+	</a> -->
 	<a href="https://www.github.com/ttiimmothy" target="_blank">
 		<img src="https://img.shields.io/github/followers/ttiimmothy?style=flat-square&logo=Github&logoColor=white" alt=""/>
 	</a>
