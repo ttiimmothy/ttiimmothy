@@ -1,4 +1,4 @@
-## Hi there, I'm Timothy
+<!-- ## Hi there, I'm Timothy -->
 <!-- ### 👨🏻‍💻 &nbsp;About me
 
 - 👨🏻‍💻 &nbsp; A passionate software engineer
@@ -7,7 +7,10 @@
 - 🔭 &nbsp; Seeking for any opportunities available in Canada
 - 📫 &nbsp; How to reach me **<timothyemail805@gmail.com>** -->
 
-### 🛠 &nbsp;Tech Stack
+<!-- ### 🛠 &nbsp;Tech Stack -->
+
+## 🛠 &nbsp;Tech Stack
+
 <table>
 	<tr>
 		<tr>
