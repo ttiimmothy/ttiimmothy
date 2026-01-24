@@ -182,9 +182,9 @@
 <p>
   <img align="center" height="141rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=buefy-dark" alt="" />
 </p>
-<p>
+<!-- <p>
   <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
-</p>
+</p> -->
 <p>
   <img align="center" height="260rem"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=25&theme=gotham" alt="" />
 </p>
