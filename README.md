@@ -1,11 +1,11 @@
 ## Hi there, I'm Timothy
-### 👨🏻‍💻 &nbsp;About me
+<!-- ### 👨🏻‍💻 &nbsp;About me
 
 - 👨🏻‍💻 &nbsp; A passionate software engineer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 🌱 &nbsp; Learning more about Data Structure and Algorithm
 - 🔭 &nbsp; Seeking for any opportunities available in Canada
-- 📫 &nbsp; How to reach me **<timothyemail805@gmail.com>**
+- 📫 &nbsp; How to reach me **<timothyemail805@gmail.com>** -->
 
 ### 🛠 &nbsp;Tech Stack
 <table>
@@ -153,7 +153,7 @@
 		</tr>
 	</tr>
 </table>
-<h3> 🚀 &nbsp; Connect with me </h3>
+<!-- <h3> 🚀 &nbsp; Connect with me </h3> -->
 <p>
 	<!-- <a href="https://ttiimmothy.com" target="_blank">
 		<img src="https://img.shields.io/badge/-ttiimmothy.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt=""/>
