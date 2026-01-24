@@ -154,7 +154,8 @@
 	</tr>
 </table>
 <!-- <h3> 🚀 &nbsp; Connect with me </h3> -->
-<h3> 🚀 &nbsp; Statistics </h3>
+
+## 🚀 Statistics
 <p>
 	<!-- <a href="https://ttiimmothy.com" target="_blank">
 		<img src="https://img.shields.io/badge/-ttiimmothy.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt=""/>
@@ -169,6 +170,7 @@
 		<img src="https://img.shields.io/github/followers/ttiimmothy?style=flat-square&logo=Github&logoColor=white" alt=""/>
 	</a>
 </p>
+
 
 ## 🌱 Metrics
 
