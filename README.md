@@ -183,7 +183,7 @@
   <img align="center" height="141rem" src="https://streak-stats.demolab.com/?user=ttiimmothy&theme=buefy-dark&mode=weekly" alt="" />
 </p>
 <p>
-  <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
+  <img align="center" height="150rem" src="https://github-readme-stats-hz3nth9a9-timothys-projects-next.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
 </p>
 <p>
   <img align="center" height="260rem"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=25&theme=gotham" alt="" />
