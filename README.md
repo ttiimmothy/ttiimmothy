@@ -180,7 +180,7 @@
 	<img src="./metrics.svg" width="400rem" alt=""/>
 </a>
 <p>
-  <img align="center" height="141rem" src="https://github-readme-streak-stats-rho-sable.vercel.app/?user=ttiimmothy&theme=buefy-dark&mode=weekly" alt="" />
+  <img align="center" height="141rem" src="https://github-readme-streak-stats-rho-sable.vercel.app/?user=ttiimmothy&theme=buefy-dark" alt="" />
 </p>
 <p>
   <img align="center" height="150rem" src="https://github-readme-stats-nine-beta-60.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
