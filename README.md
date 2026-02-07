@@ -1,13 +1,16 @@
-## Hi there, I'm Timothy
-### 👨🏻‍💻 &nbsp;About me
+<!-- ## Hi there, I'm Timothy -->
+<!-- ### 👨🏻‍💻 &nbsp;About me
 
 - 👨🏻‍💻 &nbsp; A passionate software engineer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 🌱 &nbsp; Learning more about Data Structure and Algorithm
 - 🔭 &nbsp; Seeking for any opportunities available in Canada
-- 📫 &nbsp; How to reach me **<timothyemail805@gmail.com>**
+- 📫 &nbsp; How to reach me **<timothyemail805@gmail.com>** -->
 
-### 🛠 &nbsp;Tech Stack
+<!-- ### 🛠 &nbsp;Tech Stack -->
+
+## 🛠 &nbsp;Tech Stack
+
 <table>
 	<tr>
 		<tr>
@@ -153,8 +156,10 @@
 		</tr>
 	</tr>
 </table>
-<h3> 🚀 &nbsp; Connect with me </h3>
-<p>
+<!-- <h3> 🚀 &nbsp; Connect with me </h3> -->
+
+<!-- ## 🚀 Statistics -->
+<!-- <p>
 	<a href="https://ttiimmothy.com" target="_blank">
 		<img src="https://img.shields.io/badge/-ttiimmothy.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt=""/>
 	</a>
@@ -167,7 +172,7 @@
 	<a href="https://www.github.com/ttiimmothy" target="_blank">
 		<img src="https://img.shields.io/github/followers/ttiimmothy?style=flat-square&logo=Github&logoColor=white" alt=""/>
 	</a>
-</p>
+</p> -->
 
 ## 🌱 Metrics
 
@@ -175,19 +180,19 @@
 	<img src="./metrics.svg" width="400rem" alt=""/>
 </a>
 <p>
-  <img align="center" height="141rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=buefy-dark" alt="" />
+  <img align="center" height="141rem" src="https://github-readme-streak-stats-rho-sable.vercel.app/?user=ttiimmothy&theme=buefy-dark" alt="" />
 </p>
 <p>
-  <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
+  <img align="center" height="150rem" src="https://github-readme-stats-nine-beta-60.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
 </p>
 <p>
-  <img align="center" height="260rem"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=25" alt="" />
+  <img align="center" height="260rem" src="https://github-readme-stats-nine-beta-60.vercel.app/api/top-langs/?username=ttiimmothy&show_icons=true&layout=compact&langs_count=25&theme=gotham" alt="" />
 </p>
 
-### <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="35" alt=""/> Icons
+<!-- ### <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="35" alt=""/> Icons
 <a href="https://terraform.io" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="40" alt=""/>
 </a>
 <a href="https://www.github.com/" target="_blank">
 	<img src="https://skillicons.dev/icons?i=github" height="40" alt=""/>
-</a>
+</a> -->
