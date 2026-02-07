@@ -1,5 +1,8 @@
 name: metrics
 on:
+  # push:
+  #   branches:
+  #     - prod
   schedule:
     - cron: "0 2,8,14,20 * * *"
   workflow_dispatch:
