@@ -1,4 +1,4 @@
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 // import metricsGaearon from "../../metrics_gaearon.svg";
 // import metricsAntfuPrivateRepository from "../../metrics_antfu_private_repository.svg";
 // import metricsAntfu from "../../metrics_antfu.svg";
