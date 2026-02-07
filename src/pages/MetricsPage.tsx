@@ -1,4 +1,4 @@
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 // import metricsGaearon from "../../metrics_gaearon.svg";
 // import metricsAntfuPrivateRepository from "../../metrics_antfu_private_repository.svg";
 // import metricsAntfu from "../../metrics_antfu.svg";
@@ -11,7 +11,7 @@ const MetricsPage: React.FC = () => {
   const { id } = useParams();
 
   return (
-    <div className="mx-4">
+    <div>
       {/* <Link to="/">
         <button className="bg-gray-700 h-full w-24 flex justify-center items-center rounded-md text-md px-11 py-2 mx-2 my-4 text-white hover:bg-gray-400 whitespace-nowrap">
           Back Home
