@@ -176,6 +176,9 @@
 
 ## 🌱 Metrics
 
+<p>
+  <img align="center" src="https://github-profile-trophy-nine-xi.vercel.app/?username=ttiimmothy&theme=darkhub&margin-w=15&title=Organizations,MultiLanguage,PullRequest,Repositories,Commits" alt="" />
+</p>
 <a href="https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics.svg">
 	<img src="./metrics.svg" width="400rem" alt=""/>
 </a>
