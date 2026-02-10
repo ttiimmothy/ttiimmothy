@@ -183,7 +183,7 @@
   <img align="center" height="141rem" src="https://github-readme-streak-stats-rho-sable.vercel.app/?user=ttiimmothy&theme=buefy-dark" alt="" />
 </p>
 <p>
-  <img align="center" height="150rem" src="https://github-readme-stats-nine-beta-60.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" />
+  <img align="center" height="150rem" src="https://github-readme-stats-nine-beta-60.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical&rank_icon=percentile&number_format=long" alt="" />
 </p>
 <p>
   <img align="center" height="260rem" src="https://github-readme-stats-nine-beta-60.vercel.app/api/top-langs/?username=ttiimmothy&show_icons=true&layout=compact&langs_count=25&theme=gotham" alt="" />
