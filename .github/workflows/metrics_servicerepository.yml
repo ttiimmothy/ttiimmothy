@@ -18,7 +18,7 @@ jobs:
         # uses: lowlighter/metrics@master
         uses: gh-metrics/metrics@master
         with:
-          token: ${{ secrets.PRIVATE_REPO_METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics_servicerepository.svg
           user: servicerepository
           base: header, activity, repositories, metadata
