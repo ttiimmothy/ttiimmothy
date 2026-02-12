@@ -14,7 +14,8 @@ jobs:
       contents: write
     steps:
       - name: Metrics
-        uses: lowlighter/metrics@latest
+        # uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.PRIVATE_REPO_METRICS_TOKEN }}
           filename: metrics_private_repository.svg
