@@ -26,16 +26,17 @@ jobs:
           config_timezone: Canada/Eastern
           config_twemoji: yes
           # config_order: base.header, base.activity+community, base.repositories, isocalendar, achievements, languages
-          # config_order: base.header, base.activity+community, base.repositories, achievements, languages
-          config_order: base.header, base.activity+community, base.repositories, isocalendar, achievements
+          # config_order: base.header, base.activity+community, base.repositories, isocalendar, achievements
           # config_order: base.header, base.activity+community, base.repositories, isocalendar, languages
+          # config_order: base.header, base.activity+community, base.repositories, achievements, languages
+          config_order: base.header, base.activity+community, base.repositories, achievements
           # config_order: base.header, base.activity+community, base.repositories, isocalendar
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: X
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          # plugin_isocalendar: yes
+          # plugin_isocalendar_duration: full-year
           # plugin_languages: yes
           # plugin_languages_indepth: yes
           # plugin_languages_sections: most-used, recently-used
