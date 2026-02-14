@@ -1,4 +1,4 @@
-name: metrics_servicerepository
+name: metrics_apache
 on:
   # push:
   #   branches:
