@@ -1,4 +1,4 @@
-name: metrics_apache
+name: metrics_rustdesk
 on:
   # push:
   #   branches:
@@ -19,8 +19,8 @@ jobs:
         uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics_apache.svg
-          user: apache
+          filename: metrics_rustdesk.svg
+          user: rustdesk
           base: header, activity, repositories, metadata
           base_indepth: yes
           config_timezone: Canada/Eastern
