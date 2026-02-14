@@ -19,7 +19,8 @@ metrics_4Nov.svg
 metrics_4Nov_1.svg
 metrics_11Mar_anniversary.svg
 metrics_private.svg
-metrics_apache*
+# metrics_apache*
+metrics_apache.svg
 metrics_rustdesk*
 metrics_servicerepository.yml
 
