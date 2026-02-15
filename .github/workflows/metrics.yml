@@ -19,7 +19,8 @@ jobs:
         uses: actionhooks/lowlightermetrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          config_presets: https://raw.githubusercontent.com/actionhooks/lowlightermetrics/presets/lunar-red/preset.yml
+          # config_presets: https://raw.githubusercontent.com/actionhooks/lowlightermetrics/presets/lunar-red/preset.yml
+          config_presets: https://raw.githubusercontent.com/actionhooks/lowlightermetrics/presets/ocean-blue/preset.yml
           # Options
           filename: metrics.svg
           user: ttiimmothy
