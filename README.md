@@ -179,6 +179,7 @@
 <p>
   <!-- <img align="center" src="https://github-readme-trophy-stats.vercel.app/?username=ttiimmothy&theme=darkhub&margin-w=15&title=Organizations,MultiLanguage,PullRequest,Repositories,Commits" alt="" /> -->
   <!-- <img align="center" src="https://github-readme-trophy-stats.vercel.app/?username=ttiimmothy&theme=darkhub&margin-w=15&row=1&column=5" alt="" /> -->
+  <!-- <img align="center" src="https://github-readme-trophy-stats.vercel.app/?username=ttiimmothy&theme=darkhub" alt="" /> -->
 </p>
 <a href="https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics.svg">
 	<img src="./metrics.svg" width="400rem" alt=""/>
