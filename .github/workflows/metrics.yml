@@ -53,7 +53,10 @@ jobs:
           # plugin_languages_categories: markup, programming
           # plugin_languages_colors: github
           # plugin_languages_limit: 8
-          # plugin_lines: yes
+          plugin_lines: yes
+          # plugin_lines_history_limit: 1
+          # plugin_lines_repositories_limit: 4
+          # plugin_lines_sections: base
           # plugin_notable: yes
           # plugin_notable_filter: stars:>100
           # plugin_notable_from: organization
