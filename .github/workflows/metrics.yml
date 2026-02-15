@@ -25,7 +25,7 @@ jobs:
           filename: metrics.svg
           user: ttiimmothy
           base: header, activity, repositories, metadata
-          # base_indepth: yes
+          base_indepth: yes
           config_timezone: Canada/Eastern
           config_twemoji: yes
           config_order: base.header, base.activity+community, base.repositories, lines, isocalendar, achievements
