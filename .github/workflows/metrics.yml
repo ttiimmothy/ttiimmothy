@@ -15,7 +15,8 @@ jobs:
     steps:
       - name: Metrics
         # uses: lowlighter/metrics@latest
-        uses: gh-metrics/metrics@master
+        # uses: gh-metrics/metrics@master
+        uses: actionhooks/lowlightermetrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
