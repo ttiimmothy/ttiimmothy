@@ -2185,100 +2185,64 @@ h1, h2, h3 {
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">ttiimmothy/openrice-timothy-backend</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">ttiimmothy/dotfiles-stow</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">ttiimmothy/openrice-timothy-frontend</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
                             <span class="diff-handle">ttiimmothy/stripe-learning</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">ttiimmothy/scala-project</span>
+                            <span class="diff-handle">ttiimmothy/leetcode-attempt</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">ttiimmothy/70-1</span>
+                            <span class="diff-handle">ttiimmothy/black</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">ttiimmothy/expense-splitter</span>
+                            <span class="diff-handle">ttiimmothy/github-readme-trophy-stats</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">ttiimmothy/70-2</span>
+                            <span class="diff-handle">ttiimmothy/nvim</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">ttiimmothy/railway-starter</span>
+                            <span class="diff-handle">ttiimmothy/login-verification-backend</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">ttiimmothy/overmind-dawn-of-design</span>
+                            <span class="diff-handle">ttiimmothy/zsh-history</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">ttiimmothy/dotfiles-window</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">ttiimmothy/doe</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">ttiimmothy/doe-1</span>
                         </div>
                     </section>
                     <section>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added">  +295k</span>
-                                <span class="deleted"> -21.8k</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added">   +49k</span>
-                                <span class="deleted">   -26k</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +49.4k</span>
-                                <span class="deleted"> -2.60k</span>
-                            </div>
-                            <span> </span>
-                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -2298,20 +2262,8 @@ h1, h2, h3 {
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +20k</span>
-                                <span class="deleted"> -14.3k</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added">   +20k</span>
-                                <span class="deleted"> -14.3k</span>
+                                <span class="added"> +18.3k</span>
+                                <span class="deleted"> -5.51k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -2322,8 +2274,8 @@ h1, h2, h3 {
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +29.5k</span>
-                                <span class="deleted"> -4.96k</span>
+                                <span class="added"> +15.4k</span>
+                                <span class="deleted">   -100</span>
                             </div>
                             <span> </span>
                         </div>
@@ -2334,8 +2286,8 @@ h1, h2, h3 {
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +20k</span>
-                                <span class="deleted"> -14.3k</span>
+                                <span class="added"> +9.39k</span>
+                                <span class="deleted"> -3.69k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -2346,8 +2298,32 @@ h1, h2, h3 {
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +31.7k</span>
-                                <span class="deleted">    -13</span>
+                                <span class="added"> +2.95k</span>
+                                <span class="deleted">     -1</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +1.98k</span>
+                                <span class="deleted">   -141</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +2.08k</span>
+                                <span class="deleted">     -2</span>
                             </div>
                             <span> </span>
                         </div>
@@ -2358,8 +2334,32 @@ h1, h2, h3 {
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +20.3k</span>
-                                <span class="deleted"> -8.99k</span>
+                                <span class="added"> +1.15k</span>
+                                <span class="deleted">   -776</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +1.07k</span>
+                                <span class="deleted">    -17</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added">   +945</span>
+                                <span class="deleted">    -23</span>
                             </div>
                             <span> </span>
                         </div>
@@ -2385,7 +2385,7 @@ h1, h2, h3 {
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="649.76 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="649.8633333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2407,7 +2407,7 @@ h1, h2, h3 {
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 7288 times</div>
+                                <div class="text">Repositories have been deployed 7289 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3281,20 +3281,20 @@ h1, h2, h3 {
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 128mb of code in 33129 edited files across 2586 commits</small>
+                <small>estimation from 128mb of code in 33281 edited files across 2752 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="172.2532020145618" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="172.2532020145618" y="0" width="103.03912055293526" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="275.292322567497" y="0" width="66.7541519950504" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="342.0464745625475" y="0" width="50.70134240148122" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="392.7478169640287" y="0" width="46.48260288256706" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="439.23041984659574" y="0" width="7.721393889601209" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="446.9518137361969" y="0" width="7.284865289202573" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="454.2366790253995" y="0" width="5.763320974600473" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="172.25378446729584" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="172.25378446729584" y="0" width="103.03946896687924" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="275.2932534341751" y="0" width="66.75437771589557" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="342.04763115007063" y="0" width="50.701513841751456" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="392.74914499182205" y="0" width="46.4827600576954" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="439.2319050495175" y="0" width="7.719864565863846" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="446.95176961538135" y="0" width="7.284889922066609" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="454.23665953744796" y="0" width="5.763340462552044" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3407,7 +3407,7 @@ h1, h2, h3 {
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Feb 2026, 03:46:02 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.2</span>
+                <span>Last updated 16 Feb 2026, 08:36:06 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.2</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
