@@ -22,8 +22,8 @@ metrics_private.svg
 # metrics_apache*
 metrics_apache.svg
 metrics_apache_stored.svg
-metrics_rustdesk*
-# metrics_rustdesk.svg
+# metrics_rustdesk*
+metrics_rustdesk.svg
 metrics_servicerepository.yml
 metrics_stored_13Feb2026*
 metrics_stored_14Feb2026_*
