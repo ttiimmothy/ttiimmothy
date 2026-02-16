@@ -16,7 +16,8 @@ jobs:
       - name: Metrics
         # uses: lowlighter/metrics@latest
         # uses: lowlighter/metrics@master
-        uses: gh-metrics/metrics@master
+        # uses: gh-metrics/metrics@master
+        uses: actionhooks/lowlightermetrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics_apache.svg
