@@ -44,7 +44,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 15
           plugin_lines: yes
           plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 10
-          plugin_lines_sections: repositories
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
           repositories_batch: 50
           use_prebuilt_image: yes
