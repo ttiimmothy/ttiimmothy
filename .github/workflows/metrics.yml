@@ -57,5 +57,6 @@ jobs:
           # plugin_notable_filter: stars:>100
           # plugin_notable_from: organization
           # plugin_notable_indepth: yes
-          repositories_batch: 50
+          # repositories_batch: 50
+          repositories_batch: 30
           use_prebuilt_image: yes
