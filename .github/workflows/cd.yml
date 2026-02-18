@@ -1,11 +1,11 @@
 name: cd
 on:
-  # push:
-  #   branches:
-  #     - prod
-  schedule:
-    # - cron: "20 0,2,4,8,12,16,20 * * *"
-    - cron: "10 4,8,12,16 * * *"
+  push:
+    branches:
+      - prod
+  # schedule:
+  #   # - cron: "20 0,2,4,8,12,16,20 * * *"
+  #   - cron: "10 4,8,12,16 * * *"
   workflow_dispatch:
 
 jobs:
