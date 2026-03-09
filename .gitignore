@@ -1,8 +1,6 @@
 .env.local.not.work
 .env*.local
 .env
-# metrics_private_repository.yml
-# metrics_private_repository.svg
 metrics_gaearon.svg
 metrics_gaearon.yml
 metrics_antfu.svg
@@ -19,12 +17,9 @@ metrics_4Nov.svg
 metrics_4Nov1.svg
 metrics_11Mar_anniversary.svg
 metrics_private.svg
-# metrics_apache*
-metrics_apache.svg
-metrics_apache_stored.svg
+metrics_apache*
 metrics_rustdesk*
-# metrics_rustdesk.svg
-# metrics_servicerepository.yml
+metrics_servicerepository.yml
 metrics_stored_13Feb2026*
 metrics_stored_14Feb2026*
 metrics_stored_15Feb2026*
