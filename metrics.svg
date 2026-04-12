@@ -146,7 +146,7 @@ h1, h2, h3 {
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    58k added, 11.2k removed
+                                    59.5k added, 11.7k removed
                                 </div>
                             </section>
                             <section>
@@ -941,17 +941,17 @@ h1, h2, h3 {
                                 <path fill="#58b9d0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0529931305201177 0,1.0529931305201177 z"/>
                                 <path fill="#58b9d0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0529931305201177 1.7,2.0529931305201177 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.911678115799804)">
+                            <g transform="translate(-10.2, 11.917566241413152)">
                                 <path fill="#b7dfcb" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#b7dfcb" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0883218842001963 0,1.0883218842001963 z"/>
-                                <path fill="#b7dfcb" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0883218842001963 1.7,2.0883218842001963 z"/>
+                                <path fill="#b7dfcb" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0824337585868498 0,1.0824337585868498 z"/>
+                                <path fill="#b7dfcb" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0824337585868498 1.7,2.0824337585868498 z"/>
                             </g>
                         </g>
                         <g transform="translate(32.3, 19)">
-                            <g transform="translate(0, 5.964671246319922)">
+                            <g transform="translate(0, 5.958783120706575)">
                                 <path fill="#2986b8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#2986b8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0353287536800786 0,1.0353287536800786 z"/>
-                                <path fill="#2986b8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0353287536800786 1.7,2.0353287536800786 z"/>
+                                <path fill="#2986b8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.041216879293425 0,1.0412168792934249 z"/>
+                                <path fill="#2986b8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0412168792934249 1.7,2.041216879293425 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.952894995093229)">
                                 <path fill="#2986b8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2949,7 +2949,7 @@ h1, h2, h3 {
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Apr 2026, 23:07:36 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
+                <span>Last updated 12 Apr 2026, 04:18:14 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
