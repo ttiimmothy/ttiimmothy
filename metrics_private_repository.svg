@@ -51,7 +51,7 @@ h1, h2, h3 {
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#e53228" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#fb7252" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#820711" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#fee2d5" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#fcaf93" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -3113,7 +3113,7 @@ h1, h2, h3 {
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 110mb of code in 17183 edited files across 2220 commits</small>
+                <small>estimation from 110mb of code in 17184 edited files across 2221 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -3249,7 +3249,7 @@ h1, h2, h3 {
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2026, 21:38:10 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
+                <span>Last updated 17 Apr 2026, 03:37:28 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
