@@ -51,7 +51,7 @@ h1, h2, h3 {
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#2986b8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#2986b8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#2986b8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#192062" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#284a92" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2553,7 +2553,7 @@ h1, h2, h3 {
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 179k out of 211m users</span>
+                                    <span class="gh">ranked 175k out of 216m users</span>
                                 </div>
                                 <div class="text">Published 119 public repositories</div>
                             </div>
@@ -2646,7 +2646,7 @@ h1, h2, h3 {
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 1.34m out of 211m users</span>
+                                    <span class="gh">ranked 1.30m out of 216m users</span>
                                 </div>
                                 <div class="text">Followed by 15 users</div>
                             </div>
@@ -2934,7 +2934,7 @@ h1, h2, h3 {
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Apr 2026, 23:04:47 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
+                <span>Last updated 23 Apr 2026, 04:36:46 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
