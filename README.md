@@ -9,7 +9,7 @@
 
 <!-- ### 🛠 &nbsp;Tech Stack -->
 
-## 🛠 &nbsp;Tech Stack
+<!-- ## 🛠 &nbsp;Tech Stack
 
 <table>
   <tr>
@@ -153,7 +153,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- <table>
   <tr>
