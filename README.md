@@ -9,7 +9,7 @@
 
 <!-- ### 🛠 &nbsp;Tech Stack -->
 
-<!-- ## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 <table>
 	<tr>
@@ -155,7 +155,7 @@
 			</td>
 		</tr>
 	</tr>
-</table> -->
+</table>
 <!-- <h3> 🚀 &nbsp; Connect with me </h3> -->
 
 <!-- ## 🚀 Statistics -->
