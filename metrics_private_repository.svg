@@ -51,7 +51,7 @@ h1, h2, h3 {
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#fb7252" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#820711" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#fb7252" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#fee2d5" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#fcaf93" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2848,7 +2848,7 @@ h1, h2, h3 {
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     inspirer
-                                    <span class="gh">ranked 6.36m out of 314m repositories</span>
+                                    <span class="gh">ranked 6.36m out of 313m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2952,7 +2952,7 @@ h1, h2, h3 {
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 11.5m out of 314m repositories</span>
+                                    <span class="gh">ranked 11.5m out of 313m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1 star</div>
                             </div>
@@ -3098,7 +3098,7 @@ h1, h2, h3 {
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 110mb of code in 17191 edited files across 2228 commits</small>
+                <small>estimation from 110mb of code in 17192 edited files across 2229 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -3226,7 +3226,7 @@ h1, h2, h3 {
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 30 days</small>
+                  over last 29 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -3234,7 +3234,7 @@ h1, h2, h3 {
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2026, 21:39:13 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
+                <span>Last updated 28 Apr 2026, 03:52:34 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
