@@ -334,9 +334,6 @@
   <img align="center" height="150rem" src="https://github-readme-stats-readme.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical&rank_icon=percentile&number_format=long" alt="" />
   <img align="center" height="150rem" src="https://github-readme-stats-readme.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical&number_format=long" alt="" />
 </p> -->
-<p>
-  <img align="center" height="260rem" src="https://github-readme-stats-readme.vercel.app/api/top-langs/?username=ttiimmothy&show_icons=true&layout=compact&langs_count=32&theme=gotham" alt="" />
-</p>
 <!-- <p>
   <img align="center" height="260rem" src="https://github-readme-stats-readme.vercel.app/api/top-langs/?username=ttiimmothy&show_icons=true&langs_count=32&theme=gotham" alt="" />
 </p> -->
@@ -348,3 +345,7 @@
 <a href="https://www.github.com/" target="_blank">
 	<img src="https://skillicons.dev/icons?i=github" height="40" alt=""/>
 </a> -->
+
+<!-- <p>
+  <img align="center" height="260rem" src="https://github-readme-stats-readme.vercel.app/api/top-langs/?username=ttiimmothy&show_icons=true&layout=compact&langs_count=32&theme=gotham" alt="" />
+</p> -->
