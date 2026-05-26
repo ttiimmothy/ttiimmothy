@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - prod
-  schedule:
-    - cron: "10 8,12,16 * * *"
+  # schedule:
+  #   - cron: "10 8,12,16 * * *"
   workflow_dispatch:
 
 jobs:
