@@ -1,0 +1,38 @@
+name: cd
+
+on:
+  push:
+    branches:
+      - prod
+  schedule:
+    - cron: "10 8,12,16 * * *"
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: https://codeberg.org/ziglang/checkout@19af6bac491e2534a4687a50ee84fa7f13258d28
+      - name: Setup Node.js
+        run: |
+          curl -fsSL https://deb.nodesource.com/setup_24.x | sudo -E bash -
+          sudo apt-get install -y nodejs
+      - name: Enable corepack + pnpm
+        run: |
+          corepack enable
+          corepack prepare pnpm@latest --activate
+      - name: Install dependencies
+        run: pnpm install
+      - name: Build
+        run: pnpm run build
+      - name: Deploy to pages branch
+        run: |
+          cd dist
+          git init
+          git config user.name "ci"
+          git config user.email "ci@local"
+          git add .
+          git commit -m "deploy"
+          git branch -M pages
+          git push --force https://codeberg.org/ttiimmothy/ttiimmothy.git pages
