@@ -77,7 +77,7 @@ h1, h2, h3 {
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            10784 Commits
+                            10785 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -146,7 +146,7 @@ h1, h2, h3 {
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    243k added, 110k removed
+                                    342k added, 205k removed
                                 </div>
                             </section>
                             <section>
@@ -2199,10 +2199,10 @@ h1, h2, h3 {
                                 <path fill="#fb7252" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.017664376840039 0,1.0176643768400393 z"/>
                                 <path fill="#fb7252" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0176643768400393 1.7,2.017664376840039 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.970559371933268)">
-                                <path fill="#e53228" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#e53228" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.029440628066732 0,1.029440628066732 z"/>
-                                <path fill="#e53228" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.029440628066732 1.7,2.029440628066732 z"/>
+                            <g transform="translate(-10.2, 11.964671246319922)">
+                                <path fill="#820711" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#820711" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0353287536800786 0,1.0353287536800786 z"/>
+                                <path fill="#820711" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0353287536800786 1.7,2.0353287536800786 z"/>
                             </g>
                         </g>
                     </g>
@@ -3123,7 +3123,7 @@ h1, h2, h3 {
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 115mb of code in 18290 edited files across 2388 commits</small>
+                <small>estimation from 115mb of code in 18291 edited files across 2389 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -3259,7 +3259,7 @@ h1, h2, h3 {
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jun 2026, 21:54:09 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
+                <span>Last updated 7 Jun 2026, 04:15:23 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
