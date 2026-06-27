@@ -146,7 +146,7 @@ h1, h2, h3 {
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    369k added, 217k removed
+                                    371k added, 218k removed
                                 </div>
                             </section>
                             <section>
@@ -2222,7 +2222,7 @@ h1, h2, h3 {
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.65526315789474 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.66342105263158 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2244,7 +2244,7 @@ h1, h2, h3 {
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 8190 times</div>
+                                <div class="text">Repositories have been deployed 8191 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3118,20 +3118,20 @@ h1, h2, h3 {
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 115mb of code in 18381 edited files across 2418 commits</small>
+                <small>estimation from 115mb of code in 18382 edited files across 2419 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.89335798372262" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="127.89335798372262" y="0" width="105.87737725499913" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="233.77073523872176" y="0" width="81.22579993617829" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="314.9965351749001" y="0" width="65.39064839670317" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="380.38718357160326" y="0" width="39.90548890677952" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="420.29267247838277" y="0" width="18.26074722873975" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="438.5534197071225" y="0" width="11.250248928652523" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="449.803668635775" y="0" width="10.196331364224989" height="8" fill="#ffc200"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.89090318197235" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="127.89090318197235" y="0" width="105.87534503084693" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="233.76624821281928" y="0" width="81.22424087760797" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="314.9904890904273" y="0" width="65.38939328009143" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="380.3798823705187" y="0" width="39.90472295563429" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="420.284605326153" y="0" width="18.26039672958197" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="438.545002055735" y="0" width="11.250032989911086" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="449.79503504564605" y="0" width="10.20496495435396" height="8" fill="#ffc200"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3197,7 +3197,7 @@ h1, h2, h3 {
                             <small>
                                 <div>11.5k lines</div>
                                 <div>397 kB</div>
-                                <div>8.68%</div>
+                                <div>8.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3246,7 +3246,7 @@ h1, h2, h3 {
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 22 days</small>
+                  over last 23 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -3254,7 +3254,7 @@ h1, h2, h3 {
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2026, 04:01:22 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
+                <span>Last updated 27 Jun 2026, 09:36:12 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
