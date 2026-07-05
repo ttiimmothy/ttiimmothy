@@ -146,7 +146,7 @@ h1, h2, h3 {
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    270k added, 122k removed
+                                    371k added, 218k removed
                                 </div>
                             </section>
                             <section>
@@ -3123,20 +3123,20 @@ h1, h2, h3 {
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 115mb of code in 18422 edited files across 2458 commits</small>
+                <small>estimation from 115mb of code in 18425 edited files across 2461 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.52269315196067" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="127.52269315196067" y="0" width="105.57051987908585" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="233.09321303104647" y="0" width="80.9903885907986" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="314.08360162184505" y="0" width="65.20113102012562" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="379.28473264197066" y="0" width="39.78983347662111" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="419.0745661185918" y="0" width="18.21162499214328" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="437.28619111073505" y="0" width="11.496165810456043" height="8" fill="#ffc200"/>
-                    <rect mask="url(#languages-bar)" x="448.7823569211911" y="0" width="11.217643078808859" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.51387417629724" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="127.51387417629724" y="0" width="105.56321903072251" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="233.07709320701971" y="0" width="80.98478760913565" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="314.06188081615534" y="0" width="65.1966219623769" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="379.2585027785322" y="0" width="39.787081765812566" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="419.0455845443448" y="0" width="18.2103655466781" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="437.2559500910229" y="0" width="11.527182598926428" height="8" fill="#ffc200"/>
+                    <rect mask="url(#languages-bar)" x="448.7831326899493" y="0" width="11.216867310050626" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3226,9 +3226,9 @@ h1, h2, h3 {
                                 Nim
                             </div>
                             <small>
-                                <div>1.93k lines</div>
-                                <div>114 kB</div>
-                                <div>2.5%</div>
+                                <div>1.94k lines</div>
+                                <div>115 kB</div>
+                                <div>2.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3251,7 +3251,7 @@ h1, h2, h3 {
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 26 days</small>
+                  over last 25 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -3259,7 +3259,7 @@ h1, h2, h3 {
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jul 2026, 00:56:21 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
+                <span>Last updated 5 Jul 2026, 05:42:23 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
