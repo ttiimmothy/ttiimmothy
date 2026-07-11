@@ -51,7 +51,7 @@ h1, h2, h3 {
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#fcaf93" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#820711" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#fb7252" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#fee2d5" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#fb7252" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -146,7 +146,7 @@ h1, h2, h3 {
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    205k added, 125k removed
+                                    270k added, 122k removed
                                 </div>
                             </section>
                             <section>
@@ -2563,7 +2563,7 @@ h1, h2, h3 {
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 186k out of 227m users</span>
+                                    <span class="gh">ranked 186k out of 228m users</span>
                                 </div>
                                 <div class="text">Published 120 public repositories</div>
                             </div>
@@ -2689,7 +2689,7 @@ h1, h2, h3 {
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 1.50m out of 227m users</span>
+                                    <span class="gh">ranked 1.50m out of 228m users</span>
                                 </div>
                                 <div class="text">Followed by 14 users</div>
                             </div>
@@ -3118,20 +3118,20 @@ h1, h2, h3 {
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 115mb of code in 18445 edited files across 2479 commits</small>
+                <small>estimation from 115mb of code in 18449 edited files across 2483 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.50111932566038" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="127.50111932566038" y="0" width="105.55265984177008" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="233.05377916743046" y="0" width="80.97668693086449" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="314.03046609829494" y="0" width="65.19010052946985" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="379.2205666277648" y="0" width="39.78310197703681" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="419.0036686048016" y="0" width="18.239552434998114" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="437.2432210397997" y="0" width="11.54103364152571" height="8" fill="#ffc200"/>
-                    <rect mask="url(#languages-bar)" x="448.7842546813254" y="0" width="11.215745318674571" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.49296864892604" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="127.49296864892604" y="0" width="105.54591224917347" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="233.0388808980995" y="0" width="80.97151038965698" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="314.0103912877565" y="0" width="65.18593316655958" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="379.196324454316" y="0" width="39.78055878992269" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="418.9768832442387" y="0" width="18.26779255258429" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="437.244675796823" y="0" width="11.540295865772134" height="8" fill="#ffc200"/>
+                    <rect mask="url(#languages-bar)" x="448.7849716625951" y="0" width="11.215028337404831" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3158,7 +3158,7 @@ h1, h2, h3 {
                             <small>
                                 <div>42.1k lines</div>
                                 <div>1.06 MB</div>
-                                <div>22.95%</div>
+                                <div>22.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3208,7 +3208,7 @@ h1, h2, h3 {
                                 Shell
                             </div>
                             <small>
-                                <div>4.09k lines</div>
+                                <div>4.10k lines</div>
                                 <div>182 kB</div>
                                 <div>3.97%</div>
                             </small>
@@ -3246,7 +3246,7 @@ h1, h2, h3 {
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 29 days</small>
+                  over last 28 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -3254,7 +3254,7 @@ h1, h2, h3 {
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jul 2026, 00:12:43 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
+                <span>Last updated 11 Jul 2026, 04:47:05 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
