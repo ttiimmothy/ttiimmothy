@@ -2863,7 +2863,7 @@ h1, h2, h3 {
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     inspirer
-                                    <span class="gh">ranked 6.60m out of 339m repositories</span>
+                                    <span class="gh">ranked 6.60m out of 340m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2967,7 +2967,7 @@ h1, h2, h3 {
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12m out of 339m repositories</span>
+                                    <span class="gh">ranked 12m out of 340m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1 star</div>
                             </div>
@@ -3241,7 +3241,7 @@ h1, h2, h3 {
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 29 days</small>
+                  over last 28 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -3249,7 +3249,7 @@ h1, h2, h3 {
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2026, 20:41:42 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
+                <span>Last updated 6 Aug 2026, 23:49:21 (timezone Canada/Eastern) with actionhooks/lowlightermetrics@3.36.17</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
