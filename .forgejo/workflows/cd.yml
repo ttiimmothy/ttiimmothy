@@ -10,7 +10,7 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: aarch64-linux
+    runs-on: codeberg-tiny-lazy # find the runner tag in https://codeberg.org/ttiimmothy/ttiimmothy/settings/actions/runners
     steps:
       - name: Checkout
         uses: https://codeberg.org/ziglang/checkout@19af6bac491e2534a4687a50ee84fa7f13258d28
